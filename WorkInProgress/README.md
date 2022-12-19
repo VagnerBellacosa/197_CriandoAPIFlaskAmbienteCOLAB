@@ -34,7 +34,11 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Primeiros passos com o Google Colab](https://web.dio.me/lab/criando-uma-api-com-flask-no-ambiente-colab/learning/92e095c6-76d6-4014-b272-4bb0f2948958)[Instalando e utilizando Django no Google Colab](https://web.dio.me/lab/criando-uma-api-com-flask-no-ambiente-colab/learning/a9ee465b-6d57-4407-b946-c5d3de3fde2d)[Integração da biblioteca FastAPI com Flask na Plataforma Colab](https://web.dio.me/lab/criando-uma-api-com-flask-no-ambiente-colab/learning/7734c2a4-169c-458a-b304-7cd6c8f0e2e2)[Projeto API Flask no Google Colab: Integrando um arquivo JSON para um servidor FastAPI](https://web.dio.me/lab/criando-uma-api-com-flask-no-ambiente-colab/learning/9563dbc4-f44f-47c7-afb0-91a8a68f2fdf)[Entendendo o Desafio](https://web.dio.me/lab/criando-uma-api-com-flask-no-ambiente-colab/learning/6d611721-a76f-49ae-bbe1-52a8bbb6d285)
+- [Primeiros passos com o Google Colab](https://web.dio.me/lab/criando-uma-api-com-flask-no-ambiente-colab/learning/92e095c6-76d6-4014-b272-4bb0f2948958)
+- [Instalando e utilizando Django no Google Colab](https://web.dio.me/lab/criando-uma-api-com-flask-no-ambiente-colab/learning/a9ee465b-6d57-4407-b946-c5d3de3fde2d)
+- [Integração da biblioteca FastAPI com Flask na Plataforma Colab](https://web.dio.me/lab/criando-uma-api-com-flask-no-ambiente-colab/learning/7734c2a4-169c-458a-b304-7cd6c8f0e2e2)
+- [Projeto API Flask no Google Colab: Integrando um arquivo JSON para um servidor FastAPI](https://web.dio.me/lab/criando-uma-api-com-flask-no-ambiente-colab/learning/9563dbc4-f44f-47c7-afb0-91a8a68f2fdf)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-uma-api-com-flask-no-ambiente-colab/learning/6d611721-a76f-49ae-bbe1-52a8bbb6d285)
 
 # Entendendo o Desafio
 
